@@ -1,5 +1,6 @@
-
 # Pinterest Data Pipeline with AWS MSK Kafka
+
+![Pinterest Data Pipeline Architecture](assets/images/CloudPinterestPipeline.png)
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -110,12 +111,12 @@ The repository is organized as follows:
 ```
 📁 pinterest-data-pipeline/
 ├── 📄 .gitignore                      # Git ignore file
-├── 📄 0affd9571f39_dag.py             # DAG for Airflow (Milestone 8)
+├── 📄 0affd9571f39_dag.py             # DAG for Airflow 
 ├── 📄 README.md                       # Project documentation
-├── 📄 batch_processing.ipynb          # Batch processing notebook (Milestone 9 complete)
-├── 📄 stream_processing.ipynb         # Stream processing notebook (Milestone 9 complete)
-├── 📄 user_posting_emulation.py       # API integration for posting data (Milestone 8)
-├── 📄 user_posting_emulation_streaming.py # Script for streaming emulation (Milestone 9 complete)
+├── 📄 batch_processing.ipynb          # Batch processing notebook 
+├── 📄 stream_processing.ipynb         # Stream processing notebook 
+├── 📄 user_posting_emulation.py       # API integration for posting data
+├── 📄 user_posting_emulation_streaming.py # Script for streaming emulation 
 ```
 
 ## License
