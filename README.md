@@ -38,6 +38,7 @@ The pipeline processes data such as Pinterest posts, user information, and geolo
 ## Architecture
 
 The Pinterest Data Pipeline is built using several AWS services to enable real-time and batch processing of Pinterest data. Below is a summary of the components involved, based on the architecture diagram:
+![Pinterest Data Pipeline Architecture](assets/images/CloudPinterestPipeline.png)
 
 ### Key Components:
 
